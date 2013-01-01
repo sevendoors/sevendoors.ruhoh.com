@@ -3,7 +3,7 @@
 
 RuhohSpec: '1.0'
 theme : hooligan
-production_url : blog.mlskill.com
+production_url : 'http://blog.mlskill.com'
 
 posts:
   permalink: /:categories/:title/
