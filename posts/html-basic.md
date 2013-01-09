@@ -97,6 +97,7 @@ tags:
 不用纠结这个概念，它就是块元素或者内联元素。
 
 可变元素
+
 + applet - java applet
 + button - 按钮
 + del - 删除文本
@@ -313,6 +314,7 @@ div#test用来定义height和width,padding和margin，border都定义为0
 	
 
 ###继承
+
 + 通配符的特殊性比继承得高。
 + border,margin,padding等不会被继承（好像关乎box-model的不会被继承）。
 
